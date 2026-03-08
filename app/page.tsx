@@ -1,3 +1,5 @@
+export const revalidate = 10
+
 import PromoBar from '@/components/PromoBar';
 import Navbar from '@/components/Navbar';
 import Hero from '@/components/Hero';
